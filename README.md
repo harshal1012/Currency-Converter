@@ -27,3 +27,6 @@ To run this project, you will need a modern web browser and an internet connecti
    git clone https://github.com/harshal1012/Currency-Converter.git
 
 
+### LIVE DEMO
+
+[LINK](https://harshal1012.github.io/Currency-Converter/)
