@@ -29,4 +29,4 @@ To run this project, you will need a modern web browser and an internet connecti
 
 ### LIVE DEMO
 
-[LINK](https://harshal1012.github.io/Currency-Converter/)
+Click here -->  [PROJECT LINK](https://harshal1012.github.io/Currency-Converter/)
